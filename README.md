@@ -23,7 +23,7 @@
 
 ```js
 git clone https://github.com/Dok4440/DiscordBotClient
-cd discord-bot-client/electron
+cd DiscordBotClient/electron
 ```
 
 >  Install all dependencies with ```npm i``` start Bot Client with ```npm start```
