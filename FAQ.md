@@ -11,10 +11,5 @@
 # Common Errors:
 ### most common fixes:
 - reload (control + r)
-- restart (app & pc)
-- reinstall 
-- use portable version
-## Blank Screen or error message:
-- view [Most common fixes](https://github.com/Flam3rboy/discord-bot-client/blob/master/FAQ.md#most-common-fixes)
-## Not able to run App:
-- view [Most common fixes](https://github.com/Flam3rboy/discord-bot-client/blob/master/FAQ.md#most-common-fixes)
+- restart (app and/or pc)
+- reinstall
