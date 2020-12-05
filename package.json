@@ -9,8 +9,8 @@
 		"electron": "electron electron/electron.js"
 	},
 	"keywords": [],
-	"author": "Flam3rboy",
-	"license": "ISC",
+	"author": "Dok#4440",
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.17.1"
 	},
